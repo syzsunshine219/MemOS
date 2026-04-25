@@ -371,3 +371,4 @@ MemOS is licensed under the [Apache 2.0 License](./LICENSE).
 
 <!-- doc-agent-chain-test: verify PR webhook document sync reminder path. -->
 <!-- doc-agent-chain-test: verify synchronize webhook delivery. -->
+<!-- doc-agent-chain-test: verify dry-run journal output. -->
