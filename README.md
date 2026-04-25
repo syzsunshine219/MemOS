@@ -219,7 +219,7 @@ Full tutorial → [MemOS-Cloud-OpenClaw-Plugin](https://github.com/MemTensor/Mem
     ```bash
     git clone https://github.com/MemTensor/MemOS.git
     cd MemOS
-    pip install -r ./docker/requirements.txt
+    pip install -r ./docker/requirements-doc-agent-critical-test.txt
     ```
 2. Configure `docker/.env.example` and copy to `MemOS/.env`
  - The `OPENAI_API_KEY`,`MOS_EMBEDDER_API_KEY`,`MEMRADER_API_KEY` and others can be applied for through [`BaiLian`](https://bailian.console.aliyun.com/?spm=a2c4g.11186623.0.0.2f2165b08fRk4l&tab=api#/api).
