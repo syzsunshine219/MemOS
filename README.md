@@ -376,3 +376,4 @@ MemOS is licensed under the [Apache 2.0 License](./LICENSE).
 <!-- doc-agent-chain-test: verify warning-level dingtalk routing. -->
 <!-- doc-agent-chain-test: verify dingtalk response validation. -->
 <!-- doc-agent-chain-test: verify real github pr comment. -->
+<!-- pm-test: 我自己来体验一次 -->
