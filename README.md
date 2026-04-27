@@ -379,3 +379,4 @@ MemOS is licensed under the [Apache 2.0 License](./LICENSE).
 <!-- pm-test: 我自己来体验一次 -->
 <!-- pm-test: 我还要自己来体验一次 -->
 <!-- doc-agent-chain-test: verify memtensor-ai author identity. -->
+<!-- doc-agent-chain-test: 继续体验. -->
